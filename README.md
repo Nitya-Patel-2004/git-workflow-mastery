@@ -4,6 +4,8 @@ Git Workflow Mastery Project
 Description:
 Developed a hands‑on project showcasing professional Git practices across the full development lifecycle.
 
+Goal1 : Create a feature branch, make a change, and merge it back into the main branch.
+
 Goal2 : Create a merge conflict and resolve it manually before merging a PR on GitHub.
 
 Key Achievements:
